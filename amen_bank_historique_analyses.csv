@@ -1,0 +1,41 @@
+Date,Analyste,Modele,Age,Sexe,Emploi,Logement,Epargne,Compte_Courant,Montant_Credit,Duree_Mois,Objet,Score_Risque_pct,Confiance_pct,Decision,Statut
+2026-03-13 17:35:28,koussay,KNN (K=17),35,female,0,free,little,little,3000,24,business,58.82,58.82,RISQUE ÉLEVÉ,bad
+2026-03-13 17:35:44,koussay,Ensemble Voting,35,female,0,free,little,little,3000,24,business,95.22,95.22,RISQUE ÉLEVÉ,bad
+2026-03-13 17:35:56,koussay,Gradient Boosting,35,female,0,free,little,little,3000,24,business,100.0,100.0,RISQUE ÉLEVÉ,bad
+2026-03-13 17:36:07,koussay,Forêt Aléatoire,35,female,0,free,little,little,3000,24,business,85.92,85.92,RISQUE ÉLEVÉ,bad
+2026-03-13 17:36:18,koussay,XGBoost,35,female,0,free,little,little,3000,24,business,99.74,99.74,RISQUE ÉLEVÉ,bad
+2026-03-13 17:36:29,koussay,AdaBoost,35,female,0,free,little,little,3000,24,business,66.65,66.65,RISQUE ÉLEVÉ,bad
+2026-03-13 17:36:39,koussay,Régression Logistique,35,female,0,free,little,little,3000,24,business,56.14,56.14,RISQUE ÉLEVÉ,bad
+2026-03-13 17:36:51,koussay,Arbre Décision,35,female,0,free,little,little,3000,24,business,100.0,100.0,RISQUE ÉLEVÉ,bad
+2026-03-13 17:37:04,koussay,XGBoost,35,female,0,free,little,little,3000,24,business,99.74,99.74,RISQUE ÉLEVÉ,bad
+2026-03-13 17:49:23,tarek,Gradient Boosting,21,male,0,free,little,little,2000,12,education,0.0,100.0,BON CLIENT,good
+2026-03-13 17:50:33,tarek,Forêt Aléatoire,21,male,0,free,little,little,2000,12,education,3.35,96.65,BON CLIENT,good
+2026-03-13 17:50:59,tarek,XGBoost,21,male,0,free,little,little,2000,12,education,0.07,99.93,BON CLIENT,good
+2026-03-13 17:51:20,tarek,AdaBoost,21,male,0,free,little,little,2000,12,education,11.92,88.08,BON CLIENT,good
+2026-03-13 17:51:46,tarek,Régression Logistique,21,male,0,free,little,little,2000,12,education,0.18,99.82,BON CLIENT,good
+2026-03-13 17:51:59,tarek,Arbre Décision,21,male,0,free,little,little,2000,12,education,0.0,100.0,BON CLIENT,good
+2026-03-13 17:52:11,tarek,KNN (K=17),21,male,0,free,little,little,2000,12,education,23.53,76.47,BON CLIENT,good
+2026-03-13 17:52:40,tarek,KNN (K=17),21,male,0,free,little,little,2000,12,education,23.53,76.47,BON CLIENT,good
+2026-03-13 17:52:53,tarek,KNN (K=17),21,male,0,free,little,little,2000,12,education,23.53,76.47,BON CLIENT,good
+2026-03-13 17:53:04,tarek,Ensemble Voting,21,male,0,free,little,little,2000,12,education,1.14,98.86,BON CLIENT,good
+2026-03-13 17:59:04,tarek,Gradient Boosting,39,female,0,free,little,little,11000,24,business,100.0,100.0,RISQUE ÉLEVÉ,bad
+2026-03-13 17:59:15,tarek,Gradient Boosting,39,female,0,free,little,little,9800,24,business,100.0,100.0,RISQUE ÉLEVÉ,bad
+2026-03-13 17:59:25,tarek,KNN (K=17),39,female,0,free,little,little,9800,24,business,88.24,88.24,RISQUE ÉLEVÉ,bad
+2026-03-13 17:59:40,tarek,KNN (K=17),39,female,0,free,little,little,8700,24,business,82.35,82.35,RISQUE ÉLEVÉ,bad
+2026-03-13 17:59:49,tarek,KNN (K=17),39,female,0,free,little,little,8700,15,business,58.82,58.82,RISQUE ÉLEVÉ,bad
+2026-03-13 18:00:05,tarek,KNN (K=17),39,female,0,free,little,little,8700,15,business,58.82,58.82,BON CLIENT,good
+2026-03-13 18:00:47,tarek,KNN (K=17),39,female,0,free,little,little,8700,19,business,76.47,76.47,RISQUE ÉLEVÉ,bad
+2026-03-13 18:01:04,tarek,KNN (K=17),39,female,0,free,little,little,8700,17,business,70.59,70.59,RISQUE ÉLEVÉ,bad
+2026-03-13 18:01:11,tarek,KNN (K=17),39,female,0,free,little,little,8400,17,business,70.59,70.59,RISQUE ÉLEVÉ,bad
+2026-03-13 18:01:18,tarek,KNN (K=17),39,female,0,free,little,little,8000,17,business,64.71,64.71,RISQUE ÉLEVÉ,bad
+2026-03-13 18:01:32,tarek,KNN (K=17),39,female,0,free,little,little,8000,17,business,64.71,64.71,BON CLIENT,good
+2026-03-13 22:55:42,bechir,Gradient Boosting,25,male,0,free,quite rich,little,3000,28,car,100.0,100.0,RISQUE ÉLEVÉ,bad
+2026-03-13 22:55:53,bechir,KNN (K=17),25,male,0,free,quite rich,little,3000,28,car,41.18,58.82,RISQUE ÉLEVÉ,bad
+2026-03-13 23:57:07,koussay,Gradient Boosting,35,female,0,free,little,little,3000,24,business,100.0,100.0,RISQUE ÉLEVÉ,bad
+2026-03-13 23:57:51,koussay,Régression Logistique,35,female,0,free,little,little,3000,24,business,56.14,56.14,RISQUE ÉLEVÉ,bad
+2026-03-13 23:58:40,koussay,Régression Logistique,35,female,0,free,little,little,1800,24,business,31.69,68.31,BON CLIENT,good
+2026-03-13 23:59:01,koussay,Régression Logistique,35,female,0,free,little,little,1800,24,business,31.69,68.31,BON CLIENT,good
+2026-03-14 13:58:33,koussay,Gradient Boosting,35,male,1,free,moderate,little,6225,19,business,0.0,100.0,BON CLIENT,good
+2026-03-14 13:58:54,koussay,KNN (K=17),35,male,1,free,moderate,little,6225,19,business,58.82,58.82,RISQUE ÉLEVÉ,bad
+2026-03-14 13:59:24,koussay,Régression Logistique,35,male,1,free,moderate,little,6225,19,business,86.92,86.92,RISQUE ÉLEVÉ,bad
+2026-03-14 14:03:39,koussay,Gradient Boosting,35,female,0,free,little,little,3000,24,business,100.0,100.0,RISQUE ÉLEVÉ,bad
